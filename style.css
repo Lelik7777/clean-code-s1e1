@@ -127,7 +127,7 @@ task-title {
   vertical-align: middle;
 }
 
-.task-list-item>.task-checkbox {
+.task-checkbox {
   margin: 0 10px;
 }
 
